@@ -1,0 +1,1 @@
+[{"name": "Deadly Boss Mods (DBM)", "url": "https://wow.curseforge.com/projects/deadly-boss-mods/files/latest", "version": "1209473426", "id": "3358"}, {"name": "WeakAuras 2", "url": "https://www.wowace.com/projects/weakauras-2/files/latest", "version": "1378778440", "id": "65387"}]
